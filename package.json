@@ -20,14 +20,14 @@
   },
   "homepage": "https://github.com/pollenium/honesty#readme",
   "dependencies": {
-    "pollenium-alchemilla": "^12.1.1"
+    "pollenium-alchemilla": "^12.1.1",
+    "pollenium-toadflax": "^2.2.0"
   },
   "devDependencies": {
     "@types/jest": "^25.1.3",
     "jest": "^25.1.0",
     "pollenium-gaillardia": "^2.1.1",
     "pollenium-succory": "^3.0.0",
-    "pollenium-toadflax": "^2.2.0",
     "pollenium-weigela": "^2.0.0",
     "ts-jest": "^25.2.1",
     "tsc": "^1.20150623.0",
