@@ -1,0 +1,36 @@
+{
+  "name": "pollenium-honesty",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "succory": "succory",
+    "tsc": "tsc",
+    "jest": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pollenium/honesty.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pollenium/honesty/issues"
+  },
+  "homepage": "https://github.com/pollenium/honesty#readme",
+  "dependencies": {
+    "pollenium-alchemilla": "^12.1.1"
+  },
+  "devDependencies": {
+    "@types/jest": "^25.1.3",
+    "jest": "^25.1.0",
+    "pollenium-gaillardia": "^2.1.1",
+    "pollenium-succory": "^3.0.0",
+    "pollenium-toadflax": "^2.2.0",
+    "pollenium-weigela": "^2.0.0",
+    "ts-jest": "^25.2.1",
+    "tsc": "^1.20150623.0",
+    "typescript": "^3.7.5"
+  }
+}
